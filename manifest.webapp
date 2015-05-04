@@ -1,0 +1,14 @@
+{
+  "name": "Flat Calculator",
+  "description": "Simple Flat Designed Calculator",
+  "launch_path": "/index.html",
+  "icons": {
+    "512": "/img/icon-512.png",
+    "128": "/img/icon-128.png"
+  },
+  "developer": {
+    "name": "Naji Kadri",
+    "url": "http://thelightbulbgames.weebly.com"
+  },
+  "default_locale": "en"
+}
