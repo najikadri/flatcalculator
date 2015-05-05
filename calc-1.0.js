@@ -11,6 +11,10 @@ $(document).ready( function () { // code runs when the document is ready
 	
 	// numpad and operations visual effects
 	
+	$(".numpad").mouseenter(function () {
+		$(this).fadeTo('fast',0.5);
+	});
+	
 	$(".numpad").mouseleave(function () {
 		$(this).fadeTo('slow',1);
 	});
